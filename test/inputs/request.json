@@ -1,0 +1,20 @@
+{
+  "version": "1.0",
+  "session": {
+    "new": false,
+    "sessionId": "amzn1.echo-api.session.abeee1a7-aee0-41e6-8192-e6faaed9f5ef",
+    "application": {
+      "applicationId": "amzn1.echo-sdk-ams.app.000000-d0ed-0000-ad00-000000d00ebe",
+      "timestamp": 0
+    },
+    "attributes": {},
+    "user": {
+      "userId": "amzn1.account.AM0A000AA0AAA0A000AA0AAA0A0"
+    }
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "amzn1.echo-api.request.9cdaa4db-f20e-4c58-8d01-c75322d6c423",
+    "timestamp": 0
+  }
+}

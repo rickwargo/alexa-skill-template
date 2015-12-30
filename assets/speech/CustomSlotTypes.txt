@@ -1,0 +1,7 @@
+LIST_OF_SLOTTHINGS
+------------------
+slotthing1
+slotthing2
+slotthing3
+slotthing4
+

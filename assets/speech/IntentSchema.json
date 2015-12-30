@@ -1,0 +1,41 @@
+{
+  "intents": [
+    {
+      "intent": "AppIntent",
+      "slots": [
+        {
+          "name": "SlotName",
+          "type": "LIST_OF_SLOTTHINGS"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.CancelIntent",
+      "slots": []
+    },
+    {
+      "intent": "AMAZON.HelpIntent",
+      "slots": []
+    },
+    {
+      "intent": "AMAZON.YesIntent",
+      "slots": []
+    },
+    {
+      "intent": "AMAZON.NoIntent",
+      "slots": []
+    },
+    {
+      "intent": "AMAZON.RepeatIntent",
+      "slots": []
+    },
+    {
+      "intent": "AMAZON.StartOverIntent",
+      "slots": []
+    },
+    {
+      "intent": "AMAZON.StopIntent",
+      "slots": []
+    }
+  ]
+}
